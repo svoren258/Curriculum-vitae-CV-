@@ -1,7 +1,7 @@
 * { margin: 0; padding: 0; }
 html { height: 101%; }
-/*body { background: url('images/background-3.jpg'); font-size: 62.5%; padding-bottom: 65px;}
-*/body { background: url('http://eskipaper.com/images/background-wallpaper-hd-3.jpg'); font-size: 62.5%; padding-bottom: 65px;}
+body { background: url('https://raw.githubusercontent.com/svoren258/Curriculum-vitae-CV-/master/images/background-3.jpg'); font-size: 62.5%; padding-bottom: 65px;}
+
 
 
 h1 { font-family: "Droid Serif", "Trebuchet MS", Arial, sans-serif; color: #454545; font-size: 3.6em; margin-bottom: 6px; }
